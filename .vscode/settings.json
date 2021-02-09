@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/nishant/opt/miniconda3/envs/ptenv/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "jupyter.jupyterServerType": "local"
+}
